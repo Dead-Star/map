@@ -1,0 +1,11 @@
+@import url(../libs/leaflet/leaflet.css);
+@import url(../libs/Leaflet.MousePosition-master/L.Control.MousePosition.css);
+body {
+  margin: 0;
+  padding: 0;
+  background: #222; }
+
+#mapid {
+  width: 100%;
+  height: 100vh;
+  z-index: 999; }
